@@ -8,4 +8,4 @@ Here is a simple demo SD model which was initially developed in Stella architect
 
 It was then compiled into python code. It is pretty simple and acts as a basic demo model for training new SD python programmers.
 
-This is a very early project so watch this space.
+This is a very early project so watch this space. The plan is to release a lot of material over the coming weeks.
